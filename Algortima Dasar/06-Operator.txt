@@ -1,0 +1,33 @@
+Operator
+"simbol dalam program yang digunakan untuk merubah suatu nilai"
+
+Operator Aritmatika
+operator aritmatika adalah operator yang digunakan khusus untuk bilangan bulat maupun bilangan real
+penjumlahan(+), pengurangan(-), perkalian(*), pembagian bil real(/), bagi sisa(mod), pembagian bilangan bulat(div).
+
+Operator Logika
+operator logika adalah operator yang digunakan untuk menghubungkan dua atau lebih suatu nilai dalam variable dan menghasilkan nilai true atau false
+
+AND		
+A	B	A and B
+TRUE	TRUE	TRUE
+TRUE	FALSE	FALSE
+FALSE	TRUE	FALSE
+FALSE	FALSE	FALSE
+
+OR		
+A	B	A and B
+TRUE	TRUE	TRUE
+TRUE	FALSE	TRUE
+FALSE	TRUE	TRUE
+FALSE	FALSE	FALSE
+
+NOT	
+A	NOT A
+TRUE	FALSE
+FALSE	TRUE
+
+
+Operator Relasional
+operator relasional adalah operator yang digunakan untuk membandingkan hubungan antara dua variable
+= <> < <= > >=

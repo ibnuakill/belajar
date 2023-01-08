@@ -1,0 +1,34 @@
+Variable
+"suatu pengenal(identifier) yang digunakan untuk mewakili suatu nilai tertentu dalam proses program yang nilainya bisa diubah-ubah sesuai kenbutuhan."
+
+Penamaan Variable Perlu Memperhatikan aturan sebagai berikut
+1. Nama variable boleh gabungan huruf dan angka tetapi tidak boleh diawali dengan angka
+2. Tidak Boleh Ada Spasi
+3. Tidak boleh ada symbol-symbol khusus kecuali"_"
+4. jumlah karakter bebas tetapi hanya 32 karakter pertama yang dipakai
+
+Tipe data
+"jenis data atau suatu nilai yang dapat ditampung dan diolah oleh sebuah variable"
+
+Tipe data standar -> adalah tipe data dasar yang sering digunakan dalam pemrograman/ juga sering disebut tipe data primitif.
+
+Tipe data terstruktur -> adalah tipe data yang dapat digunakan untuk menampung beberapa tipe data pada sebuah variable sehingga saling berhubungan dan dapat disusun dalam satu struktur.
+
+Macam-macam tipe data standard sebagai berikut:
+1. Tipe data bilangan bulat (integer)
+   contoh bilangan ini adalah: 0, 1, 2, -4, dst
+2. Tipe data bilangan real
+   contoh bialnag ini adalah: 0.1, 0.44, -3.2, dst
+3. Tipe data karakter (char)
+   contohnya adalah: a, b, c, x, y, dsb
+4. Tipe data string
+   contoh nya adalah: buah, hewan, kambing, dsb
+5. tipe data boolean
+   contoh nya adalah: true dan false
+
+Macam-macam tipe data terstruktur sebagai berikut:
+1. Tipe data Arrray
+2. Tipe data Record
+3. Tipe dsts File
+4. Tipe data Set
+5. Tipe data Pointer

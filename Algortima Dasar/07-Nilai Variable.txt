@@ -1,0 +1,18 @@
+Nilai
+"besaran dari tipe data yang sudah dikenal"
+
+nilai dapat dimanipulasi dengan cara:
+1. mengisis nilai kedalam variable
+	var variable = 5 <- nilai
+2. menuliskan nilai ke piranti keluaran
+	write(variable) <- menuliskan 5 ke layar
+3. diacu dari suatu nama untuk proses perhitungan/ operasi
+	var jumlah = variable * 5
+
+nilai dapat berupa:
+1. konstanta yang dapat diisi langsung
+	contoh phi : real = 3.14 <- nilai phi
+2. isi yang disimpan oleh variable atau konstanta
+	var variable = 5 <- nilai
+3. hasil perhitungan suatu ekspresi, atau hasil yang dikirim oleh fungsi
+	var jumlah = variable * 5

@@ -1,0 +1,11 @@
+Sejarah Algoritma
+"Abu Ja'far Muhammad Ibnu Musa Al-Khawarizmi"
+
+Pengertian Algoritma
+"Algoritma adalah suatu urutan dari beberapa langkah logis untuk menyelesaikan masalah"
+
+"Algoritma menurut ilmu matematika dan sains adalah urutan atau langkah-langkah untuk perhitungan atau untuk menyelesaikan masalah yang ditulis secara berurutan. sehingga, Algortima pemrograman adalah urutan atau langkah-langkah untuk menyelesaikan masalah pemrograman komputer."
+
+Cara Penyajian Algoritma
+1. Pseucode
+2. Diagram Alur/ Flowchart

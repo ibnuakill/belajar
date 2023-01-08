@@ -1,0 +1,9 @@
+Karakteristik Algoritma diantaranya:
+1. Terbatas(Finitness)
+	"proses dalam algoritma harus memiliki akhir dan jumlah langkahnya terbatas."
+2. Tidak Ambigu(Definitness)
+	"setiap langkah proses dalam algoritma harus jelas dan tidak ambigu."
+3. Input Dan Output
+	"Algortima harus menerima nol atau lebih input dan setidaknya menghasilkan satu output."
+4. Efektif(Effectiveness)
+	"Langkah-Langkah dalam algoritma harus efektif dan sesederhana mungkin."

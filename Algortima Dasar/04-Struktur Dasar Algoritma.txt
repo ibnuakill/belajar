@@ -1,0 +1,5 @@
+Dalam Algoritma Terdapat Cara Untuk Menyusun Algoritma
+
+1. Urutan(Sequensial)
+2. Pemilihan(Seleksi)
+3. Perulanagn

@@ -1,0 +1,30 @@
+Pengertian
+"Sebuah Instruksi standard untuk memerintah komputer agar bisa menjalankan program tertentu."
+
+Funsi Bahasa Pemrograman
+"untuk memerintah komputer agar bisa mengolah data sesuai dengan yang kita inginkan."
+
+Generasi Bahasa Pemrograman:
+
+1. Generasi Pertama -> machine language
+2. Generasi Kedua -> assembly language
+3. Generasi Ketiga -> procedural language
+4. Generasi Keempat -> fourth-generation language
+5. Generasi Kelima -> Programing Language Based Object Oriented & Web Development
+
+Tingkatan Bahasa Pemrograman
+
+1. Bahasa Tingkat Rendah -> Bahasa Mesin
+2. Bahasa Tingkat Menengah -> Assembly
+3. Bahasa Tingkat Tinggi -> C++, Visual Basic, Delphi, Pascal
+4. Bahasa Tingkat Object-Oriented Visual/ Very-High Level -> Java(Android), JSP, ASP
+
+Proses Pembuatan Program
+1. Kompilasi -> kompilasi adalah suatu penggabungan serta menterjemahkan suatu kode sumber menjadi bentuk lain, kompilasi merupakan sebuah teknik dalam pembacaan suatu program yang ditulis dalam bahasa sumber kemudian diterjemahkan ke dalam bahasa lain
+contoh: C, C++
+
+2. Interpretasi -> kode sumber akan dieksekusi per baris oleh program yang disebut interpreter jika ditemukan kesalahan saat eksekusi per baris maka program akan dihentikan pada baris ditemukannya kesalahan
+Contoh: Perl, Ruby, Phyton
+
+3. Kompilasi Sekaligus Interpretasi -> Gabungan Teknik kompilasi dan interpretasi bahasa pemrograman ini menggunakan teknik kompilasi dan interpretasi  
+Contoh: Java(java akan merubah kode sumber menjadi bytcode dengan teknik kompilasi kemudian bytcode ini akan dijalankan oleh jre yang bertugas sebagai interpreter yang akan membuat program dari bytcode tersebut).
